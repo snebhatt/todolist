@@ -1,0 +1,5 @@
+com\example\mytodolist\repository\TaskRepository.class
+com\example\mytodolist\DemoApplication.class
+com\example\mytodolist\exception\ResourceNotFoundException.class
+com\example\mytodolist\model\Task.class
+com\example\mytodolist\controller\TaskController.class
